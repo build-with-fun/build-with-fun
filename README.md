@@ -6,10 +6,6 @@
   3. Double-check the name "Ammar Ahmer" in the banner and typing animation below —
      edit it if that's not how you want to present yourself.
   4. Got a LinkedIn, X, or portfolio link? Uncomment and fill in the badges near the top.
-  5. Go to your profile → "Customize your pins" to feature up to 6 real repos,
-     then mirror them in the Featured Work section using the card template provided.
-  6. Optional: add the contribution-snake GitHub Action — instructions are in the
-     collapsible section under GitHub Stats.
 -->
 
 <div align="center">
@@ -116,83 +112,6 @@ flowchart LR
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-
-<br/>
-
----
-
-## 📊 GitHub Stats
-
-> 💡 These widgets run on free community-hosted servers — if one looks blank, refresh after a few seconds; they occasionally get rate-limited.
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=build-with-fun&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Ammar's GitHub Stats" width="49%" />
-  <img src="https://streak-stats.demolab.com?user=build-with-fun&theme=tokyonight&hide_border=true" alt="Ammar's GitHub Streak" width="49%" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=build-with-fun&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" width="60%" />
-</p>
-
-<details>
-<summary>🏆 More widgets — trophies & an animated contribution snake</summary>
-<br/>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=build-with-fun&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
-</p>
-
-Want a snake that "eats" your contribution graph? Add this as `.github/workflows/snake.yml` in your profile repo (confirmed working with `Platane/snk@v3` as of this writing — check [Platane/snk](https://github.com/Platane/snk) if you want the newest point release):
-
-```yaml
-name: Generate Snake
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch: {}
-  push:
-    branches: [ main ]
-jobs:
-  generate:
-    permissions:
-      contents: write
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: build-with-fun
-          outputs: |
-            dist/snake.svg
-            dist/snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-Then embed it above with:
-
-```md
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/build-with-fun/build-with-fun/output/snake-dark.svg" />
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/build-with-fun/build-with-fun/output/snake.svg" />
-</picture>
-```
-
-</details>
-
-<br/>
-
-## 📌 Featured Work
-
-GitHub's native **pinned repositories** are the cleanest way to feature projects — go to your profile → **Customize your pins** and choose up to six. Mirror them here as cards once they're pinned:
-
-```md
-[![Project Name](https://github-readme-stats.vercel.app/api/pin/?username=build-with-fun&repo=your-repo-name&theme=tokyonight&hide_border=true)](https://github.com/build-with-fun/your-repo-name)
-```
-
-Duplicate that line per project, swapping in the real repo name each time — one card per shipped project.
 
 <br/>
 
