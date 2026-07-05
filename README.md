@@ -20,10 +20,6 @@
 <img src="https://img.shields.io/github/followers/build-with-fun?style=for-the-badge&logo=github&label=Followers"/>
 </a>
 
-<a href="https://github.com/build-with-fun">
-<img src="https://img.shields.io/badge/GitHub-build--with--fun-181717?style=for-the-badge&logo=github"/>
-</a>
-
 <a href="https://instagram.com/ammar.dev.404">
 <img src="https://img.shields.io/badge/Instagram-ammar.dev.404-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
