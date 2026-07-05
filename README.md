@@ -10,7 +10,19 @@
 
 <div align="center">
 
-![Header banner](https://capsule-render.vercel.app/api?type=waving&color=0:0B1F3A,100:0EA5E9&height=200&section=header&text=Ammar%20Ahmer&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%26%20Agentic%20AI%20Engineer&descAlignY=58&descSize=16)
+<!-- Animated Typing Header tailored to your ID -->
+<a href="https://github.com">
+  <img src="https://herokuapp.com!+👋;Welcome+to+Build+With+Fun!+🚀;Where+code+meets+creativity!+✨" alt="Typing SVG" />
+</a>
+
+### 👨‍💻 Full-Stack Developer | Creative Tinkerer | Open-Source Enthusiast
+
+<!-- Clean, modern badges for social connectivity -->
+[![GitHub Followers](https://shields.io)](https://github.com)
+[![LinkedIn](https://shields.io)](https://linkedin.com)
+[![Twitter/X](https://shields.io)](https://twitter.com)
+
+---
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=20&pause=1000&color=0EA5E9&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+-+MERN+%2B+Next.js+16;Agentic+AI+Engineer+-+LangGraph+%2B+CrewAI;Mobile+App+Developer+-+React+Native;Turning+Ideas+into+Shipped+Products)](https://git.io/typing-svg)
 
