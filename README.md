@@ -119,7 +119,7 @@ flowchart LR
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=build-with-fun&label=Profile%20Views&color=0EA5E9&style=flat-square" alt="Profile Views" />
+  ![Profile Views](https://komarev.com/ghpvc/?username=build-with-fun&style=flat-square&color=0ea5e9)
 </p>
 
 <p align="center"><em>Thanks for stopping by — if you're building something ambitious with agentic AI or full-stack products, let's talk.</em></p>
