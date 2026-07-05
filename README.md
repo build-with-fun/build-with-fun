@@ -10,23 +10,7 @@
 
 <div align="center">
 
-<svg xmlns="http://www.w3.org/2000/svg" width="650" height="70">
-  <text x="0" y="50"
-        font-family="Inter, Segoe UI, Arial"
-        font-size="42"
-        font-weight="700"
-        fill="#ffffff">
-    Hello, I am
-  </text>
-
-  <text x="270" y="50"
-        font-family="Inter, Segoe UI, Arial"
-        font-size="42"
-        font-weight="700"
-        fill="#555A92">
-    Zero
-  </text>
-</svg>
+# Hello, I Am Zero
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=0EA5E9&center=true&vCenter=true&width=900&lines=Full-Stack+Developer;MERN+%7C+Next.js+16+Developer;Agentic+AI+Engineer;React+Native+Developer;Building+Scalable+Products;Turning+Ideas+Into+Reality)](https://github.com/build-with-fun)
 
