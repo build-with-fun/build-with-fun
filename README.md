@@ -1,13 +1,15 @@
 <!--
-  🔧 SETUP CHECKLIST — read once, then delete this comment block:
-  1. Create a PUBLIC repo named EXACTLY your GitHub username (e.g. github.com/new → repo name "ammar-ahmer").
-     That exact-match name is what makes GitHub display a README on your profile page.
+  🔧 SETUP CHECKLIST — a few steps left, then delete this comment block:
+  1. Create a PUBLIC repo named EXACTLY "build-with-fun" (github.com/new → repo name "build-with-fun").
+     That exact username match is what makes GitHub display this as your profile README.
   2. Upload this file as README.md at the root of that repo.
-  3. Find-and-replace "ammar-ahmer" everywhere below with your real GitHub username
-     (it powers the stats, streak, trophy, pinned-repo and snake widgets — used in several places).
-  4. Swap in your real LinkedIn, X, email and portfolio links in the badges row near the top.
-  5. Optional: go to your profile → "Customize your pins" to feature up to 6 real repos,
+  3. Double-check the name "Ammar Ahmer" in the banner and typing animation below —
+     edit it if that's not how you want to present yourself.
+  4. Got a LinkedIn, X, or portfolio link? Uncomment and fill in the badges near the top.
+  5. Go to your profile → "Customize your pins" to feature up to 6 real repos,
      then mirror them in the Featured Work section using the card template provided.
+  6. Optional: add the contribution-snake GitHub Action — instructions are in the
+     collapsible section under GitHub Stats.
 -->
 
 <div align="center">
@@ -16,10 +18,16 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=20&pause=1000&color=0EA5E9&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+-+MERN+%2B+Next.js+16;Agentic+AI+Engineer+-+LangGraph+%2B+CrewAI;Mobile+App+Developer+-+React+Native;Turning+Ideas+into+Shipped+Products)](https://git.io/typing-svg)
 
-<a href="https://linkedin.com/in/ammar-ahmer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://x.com/ammarahmer"><img src="https://img.shields.io/badge/X%20%2F%20Twitter-000000?style=flat-square&logo=x&logoColor=white" alt="X / Twitter" /></a>
-<a href="mailto:ammar.ahmer@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
-<a href="https://ammarahmer.dev"><img src="https://img.shields.io/badge/Portfolio-0EA5E9?style=flat-square" alt="Portfolio" /></a>
+<a href="mailto:ammar.developer@proton.me"><img src="https://img.shields.io/badge/Email-6D4AFF?style=flat-square&logo=protonmail&logoColor=white" alt="Email" /></a>
+<a href="https://instagram.com/ammar.dev.404"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" /></a>
+<a href="https://github.com/build-with-fun"><img src="https://img.shields.io/github/followers/build-with-fun?label=Follow&style=social" alt="GitHub followers" /></a>
+
+<!--
+  Add real links when you have them, then delete the comment markers around these three:
+  <a href="https://linkedin.com/in/your-handle"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://x.com/your-handle"><img src="https://img.shields.io/badge/X%20%2F%20Twitter-000000?style=flat-square&logo=x&logoColor=white" alt="X / Twitter" /></a>
+  <a href="https://your-portfolio.dev"><img src="https://img.shields.io/badge/Portfolio-0EA5E9?style=flat-square" alt="Portfolio" /></a>
+-->
 
 </div>
 
@@ -115,12 +123,14 @@ flowchart LR
 
 ## 📊 GitHub Stats
 
+> 💡 These widgets run on free community-hosted servers — if one looks blank, refresh after a few seconds; they occasionally get rate-limited.
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ammar-ahmer&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Ammar's GitHub Stats" width="49%" />
-  <img src="https://streak-stats.demolab.com?user=ammar-ahmer&theme=tokyonight&hide_border=true" alt="Ammar's GitHub Streak" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=build-with-fun&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Ammar's GitHub Stats" width="49%" />
+  <img src="https://streak-stats.demolab.com?user=build-with-fun&theme=tokyonight&hide_border=true" alt="Ammar's GitHub Streak" width="49%" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ammar-ahmer&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" width="60%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=build-with-fun&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" width="60%" />
 </p>
 
 <details>
@@ -128,10 +138,10 @@ flowchart LR
 <br/>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ammar-ahmer&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=build-with-fun&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
 </p>
 
-Want a snake that "eats" your contribution graph? Add this as `.github/workflows/snake.yml` in your profile repo (check [Platane/snk](https://github.com/Platane/snk) for the latest action version, in case it has changed):
+Want a snake that "eats" your contribution graph? Add this as `.github/workflows/snake.yml` in your profile repo (confirmed working with `Platane/snk@v3` as of this writing — check [Platane/snk](https://github.com/Platane/snk) if you want the newest point release):
 
 ```yaml
 name: Generate Snake
@@ -149,7 +159,7 @@ jobs:
     steps:
       - uses: Platane/snk@v3
         with:
-          github_user_name: ammar-ahmer
+          github_user_name: build-with-fun
           outputs: |
             dist/snake.svg
             dist/snake-dark.svg?palette=github-dark
@@ -165,8 +175,8 @@ Then embed it above with:
 
 ```md
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ammar-ahmer/ammar-ahmer/output/snake-dark.svg" />
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/ammar-ahmer/ammar-ahmer/output/snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/build-with-fun/build-with-fun/output/snake-dark.svg" />
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/build-with-fun/build-with-fun/output/snake.svg" />
 </picture>
 ```
 
@@ -176,10 +186,10 @@ Then embed it above with:
 
 ## 📌 Featured Work
 
-The cleanest way to feature projects is GitHub's native **pinned repositories** — go to your profile → **Customize your pins** and choose up to six. Mirror them here as cards once they're pinned:
+GitHub's native **pinned repositories** are the cleanest way to feature projects — go to your profile → **Customize your pins** and choose up to six. Mirror them here as cards once they're pinned:
 
 ```md
-[![Project Name](https://github-readme-stats.vercel.app/api/pin/?username=ammar-ahmer&repo=your-repo-name&theme=tokyonight&hide_border=true)](https://github.com/ammar-ahmer/your-repo-name)
+[![Project Name](https://github-readme-stats.vercel.app/api/pin/?username=build-with-fun&repo=your-repo-name&theme=tokyonight&hide_border=true)](https://github.com/build-with-fun/your-repo-name)
 ```
 
 Duplicate that line per project, swapping in the real repo name each time — one card per shipped project.
@@ -189,7 +199,7 @@ Duplicate that line per project, swapping in the real repo name each time — on
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ammar-ahmer&label=Profile%20Views&color=0EA5E9&style=flat-square" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=build-with-fun&label=Profile%20Views&color=0EA5E9&style=flat-square" alt="Profile Views" />
 </p>
 
 <p align="center"><em>Thanks for stopping by — if you're building something ambitious with agentic AI or full-stack products, let's talk.</em></p>
