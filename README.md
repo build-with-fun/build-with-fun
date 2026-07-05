@@ -10,7 +10,14 @@
 
 <div align="center">
 
-# Hello, I am Zero
+<h1>
+  Hello, I am
+  <svg xmlns="http://www.w3.org/2000/svg" width="120" height="32" style="vertical-align:middle">
+    <text x="0" y="24" font-size="28" font-family="Segoe UI, Arial, sans-serif" font-weight="700" fill="#555A92">
+      Zero
+    </text>
+  </svg>
+</h1>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=0EA5E9&center=true&vCenter=true&width=900&lines=Full-Stack+Developer;MERN+%7C+Next.js+16+Developer;Agentic+AI+Engineer;React+Native+Developer;Building+Scalable+Products;Turning+Ideas+Into+Reality)](https://github.com/build-with-fun)
 
