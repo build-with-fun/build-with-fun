@@ -119,7 +119,7 @@ flowchart LR
 ---
 
 <p align="center">
-  ![Profile Views](https://komarev.com/ghpvc/?username=build-with-fun&style=flat-square&color=0ea5e9)
+   working expertly on different it fields
 </p>
 
 <p align="center"><em>Thanks for stopping by — if you're building something ambitious with agentic AI or full-stack products, let's talk.</em></p>
