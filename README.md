@@ -10,34 +10,27 @@
 
 <div align="center">
 
-<!-- Animated Typing Header tailored to your ID -->
-<a href="https://github.com">
-  <img src="https://herokuapp.com!+👋;Welcome+to+Build+With+Fun!+🚀;Where+code+meets+creativity!+✨" alt="Typing SVG" />
+# 👋 Hi, I'm Ammar Ahmer
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=0EA5E9&center=true&vCenter=true&width=900&lines=Full-Stack+Developer;MERN+%7C+Next.js+16+Developer;Agentic+AI+Engineer;React+Native+Developer;Building+Scalable+Products;Turning+Ideas+Into+Reality)](https://github.com/build-with-fun)
+
+### 🚀 Full-Stack Developer • Agentic AI Engineer • Mobile App Developer
+
+<a href="https://github.com/build-with-fun">
+<img src="https://img.shields.io/github/followers/build-with-fun?style=for-the-badge&logo=github&label=Followers"/>
 </a>
 
-### 👨‍💻 Full-Stack Developer | Creative Tinkerer | Open-Source Enthusiast
+<a href="https://github.com/build-with-fun">
+<img src="https://img.shields.io/badge/GitHub-build--with--fun-181717?style=for-the-badge&logo=github"/>
+</a>
 
-<!-- Clean, modern badges for social connectivity -->
-[![GitHub Followers](https://shields.io)](https://github.com)
-[![LinkedIn](https://shields.io)](https://linkedin.com)
-[![Twitter/X](https://shields.io)](https://twitter.com)
-
----
-
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=20&pause=1000&color=0EA5E9&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+-+MERN+%2B+Next.js+16;Agentic+AI+Engineer+-+LangGraph+%2B+CrewAI;Mobile+App+Developer+-+React+Native;Turning+Ideas+into+Shipped+Products)](https://git.io/typing-svg)
-
-<a href="mailto:ammar.developer@proton.me"><img src="https://img.shields.io/badge/Email-6D4AFF?style=flat-square&logo=protonmail&logoColor=white" alt="Email" /></a>
-<a href="https://instagram.com/ammar.dev.404"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" /></a>
-<a href="https://github.com/build-with-fun"><img src="https://img.shields.io/github/followers/build-with-fun?label=Follow&style=social" alt="GitHub followers" /></a>
-
-<!--
-  Add real links when you have them, then delete the comment markers around these three:
-  <a href="https://linkedin.com/in/your-handle"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://x.com/your-handle"><img src="https://img.shields.io/badge/X%20%2F%20Twitter-000000?style=flat-square&logo=x&logoColor=white" alt="X / Twitter" /></a>
-  <a href="https://your-portfolio.dev"><img src="https://img.shields.io/badge/Portfolio-0EA5E9?style=flat-square" alt="Portfolio" /></a>
--->
+<a href="https://instagram.com/ammar.dev.404">
+<img src="https://img.shields.io/badge/Instagram-ammar.dev.404-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
 
 </div>
+
+---
 
 <br/>
 
