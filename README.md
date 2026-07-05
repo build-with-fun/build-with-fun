@@ -10,7 +10,7 @@
 
 <div align="center">
 
-# Build With Fun
+# Hi, I am Ammar. 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=0EA5E9&center=true&vCenter=true&width=900&lines=Full-Stack+Developer;MERN+%7C+Next.js+16+Developer;Agentic+AI+Engineer;React+Native+Developer;Building+Scalable+Products;Turning+Ideas+Into+Reality)](https://github.com/build-with-fun)
 
