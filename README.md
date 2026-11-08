@@ -111,7 +111,7 @@ Got an idea that's still rough around the edges? That's usually the best time to
 <div align="center">
 
 <a href="https://wa.me/923140313359"> 
-  <img src="https://shields.io" alt="Chat on WhatsApp"/> 
+  <img src="[https://shields.io](https://en.wikipedia.org/wiki/WhatsApp)" alt="Chat on WhatsApp"/> 
 </a>
 
 
