@@ -14,9 +14,6 @@
 <a href="https://github.com/build-with-fun">
   <img src="https://img.shields.io/github/followers/build-with-fun?style=for-the-badge&logo=github&label=Followers&color=0B1F3A" alt="GitHub followers"/>
 </a>
-<a href="https://instagram.com/ammar.dev.404">
-  <img src="https://img.shields.io/badge/Instagram-ammar.dev.404-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-</a>
 <img src="https://img.shields.io/badge/Open%20to-Projects%20%26%20Collabs-22C55E?style=for-the-badge" alt="Open to projects and collaborations"/>
 
 </div>
@@ -113,9 +110,10 @@ Got an idea that's still rough around the edges? That's usually the best time to
 
 <div align="center">
 
-<a href="https://instagram.com/ammar.dev.404">
-  <img src="https://img.shields.io/badge/Message%20me%20on-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Message me on Instagram"/>
+<a href="https://wa.me/923140313359"> 
+  <img src="https://shields.io" alt="Chat on WhatsApp"/> 
 </a>
+
 
 <!-- Uncomment and fill in:
 <a href="mailto:YOUR-EMAIL">
