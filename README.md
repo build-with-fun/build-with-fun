@@ -125,5 +125,3 @@ flowchart LR
 </p>
 
 <p align="center"><em>Thanks for stopping by — if you're building something ambitious with agentic AI or full-stack products, let's talk.</em></p>
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:565680,100:565680&height=100&section=footer)
