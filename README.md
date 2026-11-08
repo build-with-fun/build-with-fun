@@ -9,7 +9,7 @@
 -->
 
 <div align="center">
-<img src="banner.jpg alt="Profile banner" />
+<img src="banner.jpg" alt="Profile banner" />
 <br>
   
 # Hello, I Am Zero.
