@@ -2,7 +2,9 @@
   SETUP (delete this block when done):
   1. Create a PUBLIC repo named EXACTLY "build-with-fun" (it must match your GitHub username).
   2. Upload this file as README.md at the root of that repo.
-  3. Uncomment the LinkedIn / Portfolio / Email badges below and fill in your links.
+  3. Add .github/workflows/profile-summary-cards.yml, then Actions tab -> run the workflow once
+     (this generates the stats cards in /profile-summary-card-output).
+  4. Uncomment the LinkedIn / Portfolio / Email badges below and fill in your links.
 -->
 
 <div align="center">
@@ -96,8 +98,10 @@ Pin your best repos on your profile, or list them here:
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=build-with-fun&show_icons=true&hide_border=true&bg_color=0B1F3A&title_color=0EA5E9&icon_color=F5A623&text_color=ffffff" alt="GitHub stats"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=build-with-fun&layout=compact&hide_border=true&bg_color=0B1F3A&title_color=0EA5E9&text_color=ffffff" alt="Top languages"/>
+  <img src="./profile-summary-card-output/github_dark/0-profile-details.svg" width="49%" alt="Profile details"/>
+  <img src="./profile-summary-card-output/github_dark/3-stats.svg" width="49%" alt="GitHub stats"/>
+  <img src="./profile-summary-card-output/github_dark/1-repos-per-language.svg" width="49%" alt="Top languages by repo"/>
+  <img src="./profile-summary-card-output/github_dark/2-most-commit-language.svg" width="49%" alt="Most used languages by commit"/>
 </div>
 
 ---
