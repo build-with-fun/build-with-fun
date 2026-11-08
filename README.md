@@ -7,9 +7,9 @@
      edit it if that's not how you want to present yourself.
   4. Got a LinkedIn, X, or portfolio link? Uncomment and fill in the badges near the top.
 -->
-  
+<center >
 # Hello, I Am Ammar.
-
+<center />
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=0EA5E9&center=true&vCenter=true&width=900&lines=Full-Stack+Developer;MERN+%7C+Next.js+16+Developer;Agentic+AI+Engineer;React+Native+Developer;Building+Scalable+Products;Turning+Ideas+Into+Reality)](https://github.com/build-with-fun)
 
 ### 🚀 Full-Stack Developer • Agentic AI Engineer • Mobile App Developer
