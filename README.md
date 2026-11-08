@@ -7,10 +7,6 @@
      edit it if that's not how you want to present yourself.
   4. Got a LinkedIn, X, or portfolio link? Uncomment and fill in the badges near the top.
 -->
-
-<div align="center">
-<img src="baner.jpg" alt="Profile banner" />
-<br>
   
 # Hello, I Am Ammar.
 
